@@ -1,109 +1,134 @@
-<h1 align="center">Mayank Kumar</h1>
+<h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
 
 <h3 align="center">
-💖 Aspiring Full Stack Developer | Java | React | MERN Stack | DSA Enthusiast
+Full Stack Developer • Java Developer • MERN Stack Enthusiast
 </h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+React+%7C+MongoDB;Always+Learning+New+Things+🚀"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank-cs23&label=Profile+Views&color=ff69b4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Mayank-cs23&label=Profile+Views&color=ff69b4&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Mayank-cs23?label=Followers&style=flat-square&color=ff69b4"/>
+<img src="https://img.shields.io/github/stars/Mayank-cs23?affiliations=OWNER&style=flat-square&color=ff69b4"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech CSE Student
+🎓 B.Tech Computer Science Student
 
 💻 Passionate about Full Stack Web Development
 
-🌱 Currently Learning **MERN Stack**
+🌱 Currently Learning MERN Stack
 
-📚 Solving **LeetCode** & **Striver SDE Sheet**
+📚 Solving Data Structures & Algorithms
 
-🚀 Love Building Real World Projects
-
-⚡ Fun Fact: I enjoy turning ideas into reality through code.
+🚀 Building Real World Projects
 
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-## 🏥 Project Drishti
-A Smart Healthcare Appointment & Queue Management System.
+### 🏥 Project Drishti
+Smart Healthcare Appointment & Queue Management System
 
-### Tech Used
-- React
-- Node.js
-- Express.js
-- MongoDB
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
-### Features
+⭐ Features
 - Online Appointment Booking
-- Digital Queue Management
+- Queue Management
 - Doctor Dashboard
 - Admin Panel
-- Responsive UI
 
 ---
 
-## 💱 Currency Converter
+### 💱 Currency Converter
 
-- Live Currency Conversion
-- Responsive UI
-- JavaScript API Integration
+A responsive Currency Converter built with JavaScript.
+
+- Real-Time Conversion
+- Responsive Design
+- Easy UI
 
 ---
 
-## ❌ Tic Tac Toe
+### ❌ Tic Tac Toe
 
-- Two Player Game
+A responsive Tic Tac Toe Game.
+
 - Winner Detection
 - Draw Detection
-- Reset Game
+- Restart Game
 
 ---
 
-## 📚 Striver SDE Sheet
+### 📚 Striver SDE Sheet
 
-Java solutions of the famous Striver SDE Sheet with clean and optimized code.
+Java Solutions for Striver SDE Sheet.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayank-cs23&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=f5c2d7"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mayank-cs23&theme=rose-pine"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayank-cs23&show_icons=true&theme=transparent&title_color=F472B6&icon_color=F472B6&text_color=ffffff&border_color=F472B6"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Mayank-cs23&theme=transparent&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&border=F472B6"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-cs23&layout=compact&theme=rose_pine&title_color=ff69b4"/>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-cs23&layout=compact&theme=transparent&title_color=F472B6&border_color=F472B6"/>
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank-cs23&theme=onestar&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-cs23&theme=github-compact"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-cs23&bg_color=0d1117&color=F472B6&line=F472B6&point=ffffff&area=true&hide_border=true"/>
+
 </p>
 
 ---
@@ -113,29 +138,25 @@ Java solutions of the famous Striver SDE Sheet with clean and optimized code.
 <p align="center">
 
 <a href="https://github.com/Mayank-cs23">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💖 Thanks for Visiting
+<h3 align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
+💖 Thanks for visiting my profile 💖
 
-<p align="center">
-⭐ If you like my repositories, don't forget to star them! ⭐
-</p>
+⭐ If you like my work, consider giving a star to my repositories!
+
+</h3>
