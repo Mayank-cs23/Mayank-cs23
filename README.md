@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
+<h1 align="center">Mayank Kumar</h1>
 
 <h3 align="center">
 💖 Aspiring Full Stack Developer | Java | React | MERN Stack | DSA Enthusiast
