@@ -146,6 +146,6 @@ Java Solutions for Striver SDE Sheet.
 
 💖 Thanks for visiting my profile 💖
 
-⭐ If you like my work, consider giving a star to my repositories!
+
 
 </h3>
