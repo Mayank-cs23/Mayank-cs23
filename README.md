@@ -136,19 +136,8 @@ Java Solutions for Striver SDE Sheet.
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Mayank-cs23">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayank-cs23&show_icons=true&theme=radical" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Mayank-cs23&theme=radical" />
 </p>
 
 ---
