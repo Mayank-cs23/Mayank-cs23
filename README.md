@@ -4,9 +4,6 @@
 💖 Aspiring Full Stack Developer | Java | React | MERN Stack | DSA Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Mayank+Kumar;Full+Stack+Developer;Java+Developer;React+%7C+MongoDB+%7C+JavaScript;Solving+DSA+Everyday;Always+Learning+Something+New+🚀" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayank-cs23&label=Profile+Views&color=ff69b4&style=for-the-badge" />
@@ -119,13 +116,11 @@ Java solutions of the famous Striver SDE Sheet with clean and optimized code.
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;
 
 <a href="mailto:your-email@example.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
